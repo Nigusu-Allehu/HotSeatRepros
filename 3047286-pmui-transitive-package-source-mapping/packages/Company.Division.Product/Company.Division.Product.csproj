@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Company.Division.Product</PackageId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Division.PackageA\Company.Division.PackageA.csproj" />
+    <ProjectReference Include="..\Company.Division.PackageB\Company.Division.PackageB.csproj" />
+  </ItemGroup>
+</Project>

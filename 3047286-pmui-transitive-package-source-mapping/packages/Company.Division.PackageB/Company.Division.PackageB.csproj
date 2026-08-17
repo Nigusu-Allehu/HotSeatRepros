@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Company.Division.PackageB</PackageId>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,6 @@
+.vs/
+artifacts/
+cache/
+feeds/
+**/bin/
+**/obj/

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Packages/">
+    <Project Path="packages\Company.Division.PackageA\Company.Division.PackageA.csproj" />
+    <Project Path="packages\Company.Division.PackageB\Company.Division.PackageB.csproj" />
+    <Project Path="packages\Company.Division.Product\Company.Division.Product.csproj" />
+    <Project Path="packages\Company.Placeholder\Company.Placeholder.csproj" />
+  </Folder>
+  <Project Path="Consumer\Consumer.csproj" />
+</Solution>
