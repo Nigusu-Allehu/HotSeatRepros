@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PrunesBar\PrunesBar.csproj" />
+  <Project Path="PrunesFoo\PrunesFoo.csproj" />
+</Solution>
